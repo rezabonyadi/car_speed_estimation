@@ -1,0 +1,17 @@
+name: car_speed_env
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - plotly
+  - numpy=1.17
+  - pandas=1.0.1
+  - scikit-learn
+  - tensorflow
+  - ipykernel
+  - matplotlib
+  - pip
+  - pip:
+    - opencv-python
+
+
